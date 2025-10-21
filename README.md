@@ -1,11 +1,13 @@
 # brightlearn-SQL-practice
 
-Hi, I’m Ntshembo Maluleke 👋
-Aspiring Data Analyst | SQL Enthusiast
+Hi, I’m Roy Maluks, a passionate and motivated aspiring Data Analyst. I have hands-on experience in SQL and data management, and I’m continuously building my skills in data analysis, data visualization, and full-stack development.
 
-Practicing SQL, database design, and data analysis projects.
-Exploring Snowflake and modern data platforms.
-Fast learner, curious, and always improving my skills.
-Sharing projects & exercises from my SQL journey and personal data analysis work.
+>🎓 Background: I have practical experience working with databases, performing data extraction, transformation, and analysis. I’m also exploring modern data platforms like Snowflake and building a portfolio of SQL projects on GitHub.
+>💻 SQL Journey: My journey with SQL started during my studies, and I’ve been actively practicing queries, joins, aggregations, and data transformations. I enjoy solving real-world problems using SQL and improving my data-handling efficiency.
+>📂 Projects & Portfolio: I regularly upload SQL projects, practice exercises, and personal data analysis projects here to showcase my skills. This includes queries, database design, and problem-solving exercises that reflect my growth as a data professional.
+>🚀 Learning Mindset: I’m a fast learner and eager to explore new technologies, tools, and methodologies. I enjoy challenges that allow me to expand my skills and contribute value to real-world projects.
 
-***********“Turning data into insights, one query at a time.”************
+Let’s connect if you’re interested in data, SQL, or collaborative projects!
+
+
+************Turning data into insights, one query at a time.***********
