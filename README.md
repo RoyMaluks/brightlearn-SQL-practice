@@ -2,6 +2,8 @@
 This repository contains multiple SQL exercises completed using Snowflake's cloud platform. Each practical includes a specific exercise focused on fundamental SQL concepts.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # brightlearn-SQL-practice
 
 Hi, I’m Ntshembo Maluleke, but I’m well known as Roy 👋 — a passionate aspiring Data Analyst. I have hands-on experience in SQL and data management, and I’m continuously building my skills in data analysis, data visualization, and full-stack development.
