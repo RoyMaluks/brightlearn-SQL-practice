@@ -1,4 +1,4 @@
-# SQL-Practical-Exercises
+# SQL-Practicals
 
 ## 📘 Project Purpose
 This repository contains multiple SQL exercises completed using Snowflake's cloud platform. Each folder includes a specific exercise focused on fundamental SQL concepts.
